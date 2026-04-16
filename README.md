@@ -1,6 +1,9 @@
 
 
 # Project | Restaurant Tips
+
+#### Joint project from Laxmi Gupte and Alan An Jung Wei 
+
 ## Introduction
 The Tips dataset is a classic collection of data used extensively in data science and statistics to explore human behavior, social norms, and economic patterns. Originally documented by Bryant and Smith in 1995, the data represents 244 individual transactions recorded by a food server in a single restaurant over a period of several months.
 Each record in the dataset provides a snapshot of a dining event, capturing both numerical data (the cost of the meal and the gratuity left) and categorical data (the characteristics of the party).
